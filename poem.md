@@ -1,0 +1,130 @@
+---
+layout: post
+title: poem
+---
+# The League Goals of Alan J Pinkey and other Observations
+
+## *by Peter Carpenter*
+
+&nbsp;
+![CPFC](badge.jpg)  
+
+*i*
+
+Half past three  
+and we still haven't forced a corner\.  
+The dripping Bovril our only drink,  
+The bloody hotdog our only food.
+
+Do I dare  
+make my way up to the conveniences  
+at the top of the Holmesdale?
+
+Midwinter is its own season,  
+end-to-end stuff yet goalless at half-time\. .    
+I sometimes wonder if that is what Big Mal meant -  
+among other things - when he said that football  
+was a game of four halves.
+
+*la la la*
+
+&nbsp;
+
+*ii*
+
+Oh Lord,
+
+there is no end of it, the clueless wailing  
+of *Eagles, Eagles, Eagles*  
+(to the tune of Amazing Grace),  
+voices singing out of empty beer cans\.  
+I do not think they will sing to me.
+
+And then the raising of the scarves.
+
+The football does not matter\.  
+There is only the fight to recover  
+what has been lost  
+and found and lost again and again:  
+and now without a midfield general  
+like Kember to win the ball.
+
+Twit twit twit
+
+&nbsp;
+
+*iii*
+
+Twenty odd years largely wasted, time before  
+and time after, always returning  
+to eighteenth position in Division Two. La la la.
+
+April is the cruellest month, making  
+relegation a mathematical probability  
+in the last game at Highbury.
+
+No! I'm not Kenny Samson, nor was meant to be\.  
+Here I am, an old misery with a dry mouth,  
+being started at by away fans, waiting for a goal\.  
+I was neither at the Spurs game,  
+nor half pissed on the special from Stoke, heaving  
+out of the window, surprised by Leeds fans,  
+fought. O O O O this South East Twenty Five drag -  
+It's so inelegant  
+so unintelligent.
+
+*Saaaf luuunduuun la la la  
+saaaf luuunduuun lalala*
+
+God, it drives me mad.
+
+&nbsp;
+
+*iv*
+
+The scoreboard read  
+'Four o'clock'  
+(and flashed the attendance underneath)\.  
+In the waning dusk past half-cut features I cried  
+'What! are you here? Proctor, you old bugger.'  
+And he: 'Last Season's team was relegated,  
+just face up to it, Pete. And when will Salako  
+kick a ball again?' Alas\.  
+He left me with a wave and a 'Cheerio'  
+and faded on the full-time whistle\.  
+This is the way the game ends\.  
+Not with a goal but with a throw in.
+
+'Five o'clock'.
+
+I stopped off at The Cherry Tree  
+for a quick pint  
+(jug jug) and reflected:  
+'Well now that's done: and I'm glad it's over,  
+Glad all over, yes, yes,  
+I'm feeling glad all over.'
+
+*Ooo aah ooo aah ooo aah George Ndah  
+Ta ta goonight goonight ta ta  
+la la la*
+
+&nbsp;
+
+---
+
+Notes on '*Pinkey and other Observations*'
+
+Not only the title, but the plan and a good deal of the incidental symbolism of the poem were suggested by Malcolm Allison's autobiography Colours of My Life (Everest 1975).
+
+I.2 A phenomenon which I have often observed.
+
+I.26 Stephen David Kember was born in Croydon on 8 December, 1948 during a period of severe post-war rationing. He ended his playing career with Vancouver Whitecaps.
+
+I.34 Kenneth Graham Samson was born in 1958; his transfer to Arsenal on 14 August, 1980 precipitated what came to be known as the 'left-back' syndrome at Selhurst and a swift decline in the club's fortunes.
+
+II.38-40 cf, Preposterous Tales (I, Ludicrous) ("I once saw the Palace score four goals/away from home")
+
+I.60 The Cherry Tree still sits conveniently near to Norwood Junction; it has, to my mind, one of the finest interiors of the area's many post-match watering holes. There are, to the best of my knowledge, no actual cherry trees on the premises.
+
+John Stanley Proctor, although a mere spectator and not indeed a "character", is yet the most important personage in the poem, uniting all the rest. He stands for all those thousands, so many, who came along to watch a game of football and found something else there instead.
+
