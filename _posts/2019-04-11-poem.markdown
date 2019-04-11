@@ -11,7 +11,7 @@ title: poem
 
 *i*
 
-Half past three  \
+Half past three\  \
 and we still haven't forced a corner\.  \
 The dripping Bovril our only drink,  \
 The bloody hotdog our only food.
