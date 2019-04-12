@@ -6,7 +6,7 @@ permalink: /which noises/
 
 &nbsp;
 
-**Surface Noise** and **Other Noises** are two alternating non-generic music shows presented by Zero that share the Thursday 21:00 - 23:00 slot (UK time) on [ExileFM](http://www.exilefm.com).
+[**Surface Noise**](http://www.exilefm.com/programs/surface-noise-17) and [**Other Noises**](http://www.exilefm.com/programs/other-noises-18) are two alternating non-generic music shows presented by Zero that share the Thursday 21:00 - 23:00 slot (UK time) on [ExileFM](http://www.exilefm.com).
 Each show follows a simple presentation format: three (sometimes more, occasionally fewer) tracks presented as an *interesting* [segue](https://www.merriam-webster.com/words-at-play/segue-segway-commonly-confused) (absolutely **no** beat-matching), with mininal chat in between each sequence..
 
 &nbsp;
@@ -15,7 +15,9 @@ Each show follows a simple presentation format: three (sometimes more, occasiona
 
 &nbsp;
 
-[**Surface Noise**](http://www.exilefm.com/programs/surface-noise-17) exclusively features music from the Great Big Magic Box Of Sevens™ - which is to say, Zero's extensive collection of seven inch vinyl discs.
+[The Surface Noise theme tune...](https://www.youtube.com/watch?v=eaw0zRHCrOk)
+
+**Surface Noise** exclusively features music from the Great Big Magic Box Of Sevens™ - which is to say, Zero's extensive collection of seven inch vinyl discs.
 
 You can expect to hear surf, funk, soul, reggae, glam, disco, synth-pop, new wave, bossa nova, post-punk, rock, prog, ska, garage, bluebeat, soul, rockabilly, punk, doo wop, be bop, hip hop, power pop, jazz, klezmer, mariachi, psychedelia, country, rhythm & blues and whatever else he can lay his hands on. Probably not techno, heavy metal or polkas. Probably.
 
@@ -25,6 +27,6 @@ You can expect to hear surf, funk, soul, reggae, glam, disco, synth-pop, new wav
 
 &nbsp;
 
-[**Other Noises**](http://www.exilefm.com/programs/other-noises-18) features music from Zero's digital collection - each show having an arbitrary theme to constrain the selection.
+**Other Noises** features music from Zero's digital collection - each show having an arbitrary theme to constrain the selection.
 
 The range of genres is, if anything, even broader than **Surface Noise**...
