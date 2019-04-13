@@ -1,13 +1,13 @@
 ---
 layout: page
-title: which noises?
-permalink: /which noises/
+title: what is noises?
+permalink: /what is noises/
 ---
 
 &nbsp;
 
-[**Surface Noise**](http://www.exilefm.com/programs/surface-noise-17) and [**Other Noises**](http://www.exilefm.com/programs/other-noises-18) are two alternating non-generic music shows presented by Zero that share the Thursday 21:00 - 23:00 slot (UK time) on [ExileFM](http://www.exilefm.com).
-Each show follows a simple presentation format: three (sometimes more, occasionally fewer) tracks presented as an *interesting* [segue](https://www.merriam-webster.com/words-at-play/segue-segway-commonly-confused) (absolutely **no** beat-matching), with mininal chat in between each sequence..
+[**Surface Noise**](http://www.exilefm.com/programs/surface-noise-17) and [**Other Noises**](http://www.exilefm.com/programs/other-noises-18) are two alternating non-generic music shows presented by Zero that share the Thursday 21:00 - 23:00 slot (UK time) on [ExileFM](http://www.exilefm.com).  
+Each show follows a simple presentation format: three (sometimes more, occasionally fewer) tracks presented as an *interesting* [segue](https://www.merriam-webster.com/words-at-play/segue-segway-commonly-confused) (absolutely **no** beat-matching), with mininal chat between each sequence..
 
 &nbsp;
 
