@@ -14,13 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: noises
-# email: zeroliberationarmy@gmail.com
+email: zeroliberationarmy@gmail.com
 description:
   I wouldn't want to drink with anyone who only likes one kind of music... 
   John Wheeler (Hayseed Dixie)
 url: "https://zeronoises.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: hail_discordia
-# github_username: zeronoises
 facebook_username: zeronoises
 
 # Build settings
