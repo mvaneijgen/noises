@@ -2,7 +2,11 @@
  * Site header
  */
 .site-header {
+<<<<<<< HEAD
   border-top: 1px solid $grey-color-light;
+=======
+  border-top: 5px solid $grey-color-dark;
+>>>>>>> 936d5aab498b5eca5b5c19793671d12e3ff49e32
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -11,7 +15,11 @@
 }
 
 .site-title {
+<<<<<<< HEAD
   @include relative-font-size(2);
+=======
+  @include relative-font-size(1.625);
+>>>>>>> 936d5aab498b5eca5b5c19793671d12e3ff49e32
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -20,7 +28,11 @@
 
   &,
   &:visited {
+<<<<<<< HEAD
     color: $grey-color-light;
+=======
+    color: $grey-color-dark;
+>>>>>>> 936d5aab498b5eca5b5c19793671d12e3ff49e32
   }
 }
 
