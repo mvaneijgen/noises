@@ -17,7 +17,7 @@ title: noises
 # email: zeroliberationarmy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I wouldn't want to drink with anyone who only likes one kind of music... John Wheeler (Hayseed Dixie)
-url: "https://zeronoises.github.io/noises" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zeronoises.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: hail_discordia
 github_username: zeronoises
 facebook_username: zeronoises
