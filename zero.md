@@ -16,7 +16,7 @@ He learned how to do the [twist](https://www.thoughtco.com/the-twist-dance-craze
 
 He bought his [first piece of vinyl](https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico) in 1970 (from W H Smith's in Forest Hill).
 
-He joined his first band (as a 'non-musician') in 1971.
+He joined his first band (as a 'non-musician') in 1974.
 
 He [changed his name](https://www.rocketlawyer.co.uk/documents-and-forms/Statutory-declaration-of-name-change.rl#) in 1985.
 
