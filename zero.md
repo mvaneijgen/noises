@@ -32,4 +32,4 @@ He moved back to London in 2016.
 
 He made his first appearance on [ExileFm](https://www.exilefm.com) in 2017.
 
-He is a cyclist and and a supporter of Crystal Palace FC.
+He is a cyclist and and a supporter of [Crystal Palace FC](https://youtu.be/bAgW9PZqjEs).
