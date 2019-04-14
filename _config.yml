@@ -20,6 +20,7 @@ description:
   John Wheeler (Hayseed Dixie)
 url: "https://zeronoises.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: zeronoises
+disqus_shortname: noises
 
 # Build settings
 markdown: kramdown
