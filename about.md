@@ -27,6 +27,6 @@ You can expect to hear surf, funk, soul, reggae, glam, disco, synth-pop, new wav
 
 &nbsp;
 
-**Other Noises** features music from Zero's digital collection, each show having an arbitrary theme to constrain the selection: this makes sure that there are lots of surprises - little gems that have been buried in the digital vault waiting for release... Early shows didn't have the thematic format and so tended to be a bit self-indulgent.
+**Other Noises** features music from Zero's digital collection, each show having an arbitrary theme to constrain the selection. This makes sure that there are lots of surprises - little gems that have been buried in the digital vault waiting for release... Early shows didn't have the thematic format and so tended to be a bit self-indulgent.
 
 The range of genres is, if anything, even broader than **Surface Noise**...
