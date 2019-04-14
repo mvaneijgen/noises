@@ -37,7 +37,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $grey-color-light;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -199,7 +199,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $text-color;
 }
 
 .post-link {
