@@ -25,6 +25,8 @@ He joined his second band (as the singer) in 1993.
 
 He moved to Manchester in 2001.
 
+He bought a pair of second hand [Technics SL-1200 Mk2](https://www.gearogs.com/gear/99615-sl-1200-mk2)'s from [Johnny Roadhouse](https://www.johnnyroadhouse.co.uk/shop/) in 2006.
+
 He started [seriously collecting 7" vinyl](https://www.discogs.com/user/zerocc/collection?sort_by=artists_sort&facets=formats%255D%253A%255B7%2522) in 2008. Thanks sis...
 
 He moved back to London in 2016.
