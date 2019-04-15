@@ -6,8 +6,8 @@ permalink: /what it is/
 
 &nbsp;
 
-[**Surface Noise**](http://www.exilefm.com/programs/surface-noise-17) and [**Other Noises**](http://www.exilefm.com/programs/other-noises-18) are two non-generic music shows presented by [Zero](zero.md) that take alternate turns in the Thursday 21:00 - 23:00 slot (UK time) on [ExileFM](http://www.exilefm.com).  
-Each show follows a simple presentation format: three (sometimes more, occasionally fewer) tracks presented as an *interesting* [segue](https://www.merriam-webster.com/words-at-play/segue-segway-commonly-confused) (absolutely **no** beat-matching), with mininal chat between each sequence..
+[**Surface Noise**](http://www.exilefm.com/programs/surface-noise-17){:target="_blank"} and [**Other Noises**](http://www.exilefm.com/programs/other-noises-18){:target="_blank"} are two non-generic music shows presented by [Zero](zero.md){:target="_blank"} that take alternate turns in the Thursday 21:00 - 23:00 slot (UK time) on [ExileFM](http://www.exilefm.com){:target="_blank"}.  
+Each show follows a simple presentation format: three (sometimes more, occasionally fewer) tracks presented as an *interesting* [segue](https://www.merriam-webster.com/words-at-play/segue-segway-commonly-confused){:target="_blank"} (absolutely **no** beat-matching), with mininal chat between each sequence..
 
 &nbsp;
 
