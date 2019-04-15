@@ -15,8 +15,8 @@ Each show follows a simple presentation format: three (sometimes more, occasiona
 
 &nbsp;
 
-[The current Surface Noise theme tune...](https://www.youtube.com/watch?v=eaw0zRHCrOk)  
-[The original Surface Noise theme tune...](https://www.youtube.com/watch?v=ddrAVS3d9zE&feature=youtu.be&t=37)
+[The current Surface Noise theme tune...](https://www.youtube.com/watch?v=eaw0zRHCrOk){:target="_blank"}  
+[The original Surface Noise theme tune...](https://www.youtube.com/watch?v=ddrAVS3d9zE&feature=youtu.be&t=37){:target="_blank"}
 
 **Surface Noise** exclusively features music from the Great Big Magic Box Of Sevens™ - which is to say, Zero's extensive collection of seven inch vinyl discs.
 
