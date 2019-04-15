@@ -29,6 +29,6 @@ He started [seriously collecting 7" vinyl](https://www.discogs.com/user/zerocc/c
 
 He moved back to London in 2016.
 
-He made his first appearance on [ExileFm](https://www.exilefm.com) in 2017.
+He made his [first appearance](_posts/2017-07-13-sn01.md) on ExileFm in 2017.
 
 He is a cyclist and and a supporter of [Crystal Palace FC](https://youtu.be/bAgW9PZqjEs).
