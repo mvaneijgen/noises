@@ -26,7 +26,6 @@ disqus_shortname: noises
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-relative-links
   
