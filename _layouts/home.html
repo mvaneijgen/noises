@@ -17,12 +17,12 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
+        <a class="post-link" href="{{ post.url | relative_url }}"> <img style="float: right" src="{{ site.baseurl }}/{{ post.image }}">
           {{ post.title | escape }}
         </a>
         <span class="post-meta">{{ post.blurb }}</span>
       </h3>
-      <img src="{{ site.baseurl }}/{{ post.image }}">
+
     </li>
     {%- endfor -%}
   </ul>
