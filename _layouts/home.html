@@ -12,7 +12,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
   <ul class="post-list">
-    {%- for post in site.posts -%}
+    {%- for post in site.posts limit:8 -%}
     <a href="{{ post.url | relative_url }}">
       <img style="float: inline-end" src="{{ site.baseurl }}/{{ post.image }}">
     </a>
