@@ -13,8 +13,8 @@ layout: default
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
   <ul class="post-list">
     {%- for post in site.posts -%}
-    <a class="post-link" href="{{ post.url | relative_url }}">
-      <img style="float: right" src="{{ site.baseurl }}/{{ post.image }}">
+    <a href="{{ post.url | relative_url }}">
+      <img style="float: inline-end" src="{{ site.baseurl }}/{{ post.image }}">
     </a>
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
